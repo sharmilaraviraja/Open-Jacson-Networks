@@ -3,6 +3,7 @@
 ![image](https://user-images.githubusercontent.com/103921593/203239789-bc870dce-6727-487b-a0e2-4fc3f5114889.png)
 ## Experiment:
 <img width="1038" height="639" alt="image" src="https://github.com/user-attachments/assets/f2bae0a9-6187-42bb-9ec8-e7c2f5d605c7" />
+
 ## Program
 ```
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
